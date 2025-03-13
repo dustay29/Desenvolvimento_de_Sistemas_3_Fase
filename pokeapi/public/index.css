@@ -1,0 +1,18 @@
+body {
+    background-color:aliceblue;
+    text-align: center;
+    justify-content: center;
+}
+
+button {
+    background-color: aqua;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+input {
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
